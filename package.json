@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "form-data": "^4.0.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
